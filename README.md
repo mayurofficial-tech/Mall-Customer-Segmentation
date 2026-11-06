@@ -138,13 +138,13 @@ The notebook has a **marketing recommendation for each segment** and explains wh
   <sub><b>Elbow method</b> · inertia vs k</sub>
 </td>
 <td width="50%" align="center">
-  <img src="screenshots/06_silhouette_scores.png" alt="Silhouette scores" /><br>
+  <img src="screenshots/06_silhouette_score.png" alt="Silhouette scores" /><br>
   <sub><b>Silhouette score</b> vs k</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-  <img src="screenshots/07_kmeans_clusters.png" alt="K-Means clusters" /><br>
+  <img src="screenshots/07_kmeans_cluster.png" alt="K-Means clusters" /><br>
   <sub><b>K-Means clusters</b> · centroids marked with black X</sub>
 </td>
 <td width="50%" align="center">
