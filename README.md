@@ -138,7 +138,7 @@ The notebook has a **marketing recommendation for each segment** and explains wh
   <sub><b>Elbow method</b> · inertia vs k</sub>
 </td>
 <td width="50%" align="center">
-  <img src="screenshots/06_silhouette_score.png" alt="Silhouette scores" /><br>
+  <img src="screenshots/06_silhouette score.png" alt="Silhouette scores" /><br>
   <sub><b>Silhouette score</b> vs k</sub>
 </td>
 </tr>
